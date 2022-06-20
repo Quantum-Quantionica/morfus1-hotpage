@@ -55,7 +55,7 @@ h1 > span {
     background-color: #fff;
     font-size: 14px;
     text-align: center;
-    color: #271250;
+    color: #000;
     
 }
 
@@ -135,5 +135,5 @@ a.w {
 }
 
 a.compra {
-    background-color: #000;
+    background-color: #271250;
 }
