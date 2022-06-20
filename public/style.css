@@ -1,6 +1,7 @@
 :root {
     --primary-color: #23344a;
     --secondary-color: #daa520;
+    --whatszap: #25D366;
 }
 
 * {
@@ -127,4 +128,12 @@ footer.small {
 a.button {
     margin: 20px;
     background-color: var(--secondary-color);
+}
+
+a.w {
+    background-color: var(--whatszap);
+}
+
+a.compra {
+    background-color: #000;
 }
