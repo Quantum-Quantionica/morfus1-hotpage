@@ -42,6 +42,7 @@ h1 > span {
 }
 
 .content {
+    
     margin: 0 auto;
     max-width: 800px;
     padding: 0 10px;
@@ -112,6 +113,7 @@ footer .content a, a.button {
 
 footer .info {
     text-align: center;
+    
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     color: var(--primary-color);
@@ -134,6 +136,35 @@ a.w {
     background-color: var(--whatszap);
 }
 
+a.i {
+    background-color: #E1306C;
+}
+
+a.y {
+    background-color: #c4302b;
+}
+
+a.f {
+    background-color: #3b5998;
+}
+
+
 a.compra {
     background-color: #3B1D74;
+}
+
+/* .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+} */
+
+.logo img{
+    width: 90px;
+    /* margin-bottom: -60px;
+    margin-top: -60px;
+
+    margin-left: -70px; */
+    
 }
